@@ -1,0 +1,1 @@
+O desespero de tentar aprender Git
