@@ -1,3 +1,3 @@
-O desespero de tentar aprender Git
-Isso é uma alteração
-Agora vai alterar, amém! 
+Git passa a ser divertido depois que você entende.
+Espero que tenha aprendido de fato.
+Vamos tentar brincar sozinha! 
